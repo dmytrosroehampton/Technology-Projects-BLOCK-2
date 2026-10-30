@@ -1,7 +1,7 @@
 ## 📡 4. Connectivity Testing
 
 ### 4.1 Ping Test Screenshot(s)
-![Step1](../ImagesW2/Ping%20Test.png)
+![Step1](../ImagesW2/Ping_Test.png)
 
 ### 4.2 Describe the Results
 - Were all PCs able to ping each other?  
