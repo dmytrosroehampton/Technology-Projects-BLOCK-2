@@ -10,6 +10,5 @@
 | PC4    | 192.168.1.14     | 255.255.255.0     |        |
 
 ### 3.2 Screenshot of IP Configuration Page
-```
-images/ip-config-pc0.png
-```
+
+![Step1](../ImagesW2/Configuration.png)
