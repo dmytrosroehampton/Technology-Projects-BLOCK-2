@@ -5,3 +5,4 @@ Describe the purpose of this activity in your own words:
 
 _Write your summary here…_
 
+The goal of the lab was to creat conection bettwen 5 computers and check connection to send signal
