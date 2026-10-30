@@ -5,11 +5,10 @@
 ### 2.1 Devices Used
 List all devices added to your Packet Tracer workspace.
 
-_Write your list here…_
+PC1 PC0 PC2 PC3 PC4 switch
 
 ### 2.2 Topology Screenshot
 Insert your topology screenshot (saved inside `images/`).
 
-```
-images/topology.png
-```
+![Step1](ImagesW2/Topology.png)
+
